@@ -4,3 +4,4 @@ We are practising Git Session.
 This is our day 1 of GIT
 Apple is red
 Mango is yellow
+sky is blue
